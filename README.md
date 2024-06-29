@@ -5,11 +5,6 @@
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIG3.6.ClNb5dikZTJWuwDx3d?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" alt="Profile Views"  style="width: 200px; height: auto; border-radius: 50%; />
-</p>
-
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  style="width: 200px; height: auto; border-radius: 50%;">
 
 ## 👨‍💻 About Me
 
