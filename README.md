@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="background: -webkit-linear-gradient(#ff7e5f, #feb47b);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">Sai Venkatesh</span></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2210030108&label=Profile%20views&color=0e75b6&style=flat" alt="2210030108" /> </p>
+<p align="left"> <img src="./img.png" alt="2210030108" /> </p>
 
 - 🔭 I’m currently working on **ChatWithPdf**
 
